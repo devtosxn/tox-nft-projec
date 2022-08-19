@@ -1,0 +1,20 @@
+{
+    "description": "This NFT proves that I have deployed an NFT on Ethereum Goerli", 
+    "external_url": "https://alchemy.com", 
+    "image": "https://ipfs.filebase.io/ipfs/QmZRHAExDsLrv4bg3ADwNR6yGz4tzFhhNhxqXYgBu2qyFi", 
+    "name": "ToxNFT",
+    "attributes": [
+      {
+        "trait_type": "Colour", 
+        "value": "Mixed"
+      }, 
+      {
+        "trait_type": "Coolness", 
+        "value": "A lot!"
+      }, 
+      {
+        "trait_type": "Token Standard", 
+        "value": "ERC721"
+      }
+    ]
+  }
